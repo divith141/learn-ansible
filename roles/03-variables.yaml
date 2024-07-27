@@ -1,4 +1,4 @@
--name: Demo on Variables
+- name: Demo on Variables
   hosts: localhost
   vars_files:
     - sample-vars.yml
